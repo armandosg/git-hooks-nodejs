@@ -1,0 +1,15 @@
+*.config.js
+test/**/*.js
+.eslintrc.js
+.idea
+.husky
+.nyc_output
+.serverless
+.vscode
+.webpack
+build
+coverage
+dist
+node_modules
+dist/**
+migrations/** 
